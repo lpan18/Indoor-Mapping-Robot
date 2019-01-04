@@ -1,5 +1,6 @@
 ## How to run the repo
 To compile, run `catkin_make`
+
 run `roscore`
 run `rosrun stage_ros stageros `rospack find safe_teleop`/worlds/willow-erratic.world`
 Or `rosrun stage_ros stageros `rospack find safe_teleop`/worlds/simple.world base_scan_1:=/base_scan`
