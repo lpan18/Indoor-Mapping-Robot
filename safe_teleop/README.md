@@ -1,8 +1,3 @@
-## safe_teleop
-
-###Fall CMPT 742 (Visual Computing) Assignment
-# Author
-
 ## Dependencies
 * ROS
 * ncurses
